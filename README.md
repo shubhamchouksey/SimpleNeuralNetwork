@@ -21,3 +21,7 @@ The following elements are required:
 4. An output unit with sigmoid activation
 
 There are 4 possible test (input) cases. Test your code for all cases.  
+
+**Result:**
+
+[]()
