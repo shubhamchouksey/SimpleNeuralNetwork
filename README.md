@@ -24,4 +24,4 @@ There are 4 possible test (input) cases. Test your code for all cases.
 
 **Result:**
 
-[]()
+![](https://github.com/shubhamchouksey/SimpleNeuralNetwork/blob/master/Image.png)
