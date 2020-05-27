@@ -6,10 +6,10 @@ Coding a simple neural network for solving XOR problem in Python without ML libr
 
 | Input 1 | Input 2 | Output |
 |---------|---------|--------|
-| 4 | 4 | 0|
-| 2 | 4 | -1 |
-| 4 | 2 | 1 |
-| 2 | 2 | 0 |
+| 1 | 0 | 1|
+| 0 | 1 | 1 |
+| 0 | 0 | 0 |
+| 1 | 1 | 0 |
 
 In words, the XOR function is 0 if both inputs are the same, or 1 if both inputs are different. Hence, the reason it is known as exclusive OR.
 
